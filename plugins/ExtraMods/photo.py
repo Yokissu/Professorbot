@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram import Client, filters
 
@@ -34,3 +36,5 @@ async def photo_handler(client, message):
         if "USER_IS_BLOCKED" in str(e): return           
         try: await message.reply_text(f"{e} \nSomething Went Wrong!", quote=True)
         except Exception: return
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
