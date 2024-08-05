@@ -233,7 +233,7 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 
 • ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/kissuXbots">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a></b>"""   
  
-        IMDB_TEMPLATE = """<b>Qᴜᴇʀʏ: {query}</b>
+    IMDB_TEMPLATE = """<b>Qᴜᴇʀʏ: {query}</b>
 
 🏷 Tɪᴛʟᴇ: <a href={url}>{title}</a>
 🎭 Gᴇɴʀᴇꜱ: {genres}
