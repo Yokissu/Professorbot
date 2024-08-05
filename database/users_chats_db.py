@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 import motor.motor_asyncio
 from info import DATABASE_NAME, DATABASE_URL, IMDB, IMDB_TEMPLATE, MELCOW_NEW_USERS, P_TTI_SHOW_OFF, SINGLE_BUTTON, SPELL_CHECK_REPLY, PROTECT_CONTENT, MAX_RIST_BTNS, IMDB_DELET_TIME                  
 
@@ -146,3 +148,6 @@ class Database:
 
 
 db = Database(DATABASE_URL, DATABASE_NAME)
+
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
