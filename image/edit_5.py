@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 from pyrogram.enums import ChatAction
 import asyncio
 import shutil
@@ -422,3 +424,6 @@ async def scanlineglitch_5(client, message):
                 )
             except Exception:
                 return
+
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
