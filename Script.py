@@ -223,14 +223,7 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 
 ꜱʜᴀʀᴇ & ꜱᴜᴩᴩᴏʀᴛ, ʀᴇqᴜᴇꜱᴛ ʏᴏᴜ ᴡᴀɴᴛᴇᴅ ᴍᴏᴠɪᴇꜱ"""
   
-    IMDB_TEMPLATE = """<b>Qᴜᴇʀʏ: {query}</b>
-
-🏷 Tɪᴛʟᴇ: <a href={url}>{title}</a>
-🎭 Gᴇɴʀᴇꜱ: {genres}
-📆 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
-🌟 Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10"""
-   
-CAPTION = """ 
+    CAPTION = """ 
 <b>• {file_name}
 ╭──────────────────╮
 • <a href="https://t.me/+1MxLxqoanIFlYzM9">sᴇʀɪᴇs Hᴜʙ</a>
@@ -240,10 +233,10 @@ CAPTION = """
 
 • ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/kissuXbots">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a></b>"""   
  
+        IMDB_TEMPLATE = """<b>Qᴜᴇʀʏ: {query}</b>
 
-
+🏷 Tɪᴛʟᴇ: <a href={url}>{title}</a>
+🎭 Gᴇɴʀᴇꜱ: {genres}
+📆 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
+🌟 Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10"""
    
-  
- 
-
-
