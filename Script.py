@@ -235,8 +235,8 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
     CAPTION = """ 
 <b>• {file_name}
 ╭──────────────────╮
-• <a href="https://t.me/+1MxLxqoanIFlYzM9">sᴇʀɪᴇs Hᴜʙ</a>
-• <a href="https://t.me/+yQXmFinDqDhiMTJl">Mᴏᴠɪᴇs Hᴜʙ</a>
+• <a href="https://t.me/+1MxLxqoanIFlYzM9">Cᴏᴘʏʀɪɢʜᴛ Mᴏᴠɪᴇs</a>
+• <a href="https://t.me/+yQXmFinDqDhiMTJl">Cᴏᴍʙɪɴᴇᴅ Sᴇʀɪᴇs</a>
 • <a href="https://t.me/ur_movie_group">Uʀ Mᴏᴠɪᴇs Gʀᴏᴜᴘ</a>
 ╰──────────────────╯
 
