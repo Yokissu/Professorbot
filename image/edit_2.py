@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 from PIL import Image, ImageEnhance, ImageDraw
 from pyrogram.enums import ChatAction
 import numpy as np
@@ -396,3 +398,6 @@ async def cartoon(client, message):
                 )
             except Exception:
                 return
+
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
