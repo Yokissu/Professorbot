@@ -438,6 +438,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[      
             InlineKeyboardButton("•Hᴇʟᴩ 🕸️", callback_data="help"),
             InlineKeyboardButton("Aʙᴏᴜᴛ 🪴", callback_data="about")
+        ],[
+            InlineKeyboardButton('❗❗ᴅɪsᴄʟᴀɪᴍᴇʀ❗❗', callback_data='source')
         ]]
         await query.edit_message_media(InputMediaPhoto(random.choice(PICS), START_MESSAGE.format(user=query.from_user.mention, bot=client.mention), enums.ParseMode.HTML), reply_markup=InlineKeyboardMarkup(buttons))
        
@@ -466,12 +468,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons= [[
             InlineKeyboardButton('× ᴀʟʟ ᴏᴜʀ ʟɪɴᴋꜱ ×', url="https://t.me/kissuXbots/42")
        ],[
-            InlineKeyboardButton('• ɢʀᴏᴜᴘ •', url="t.me/ur_movie_group"),
-            InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇs •', url="t.me/kissuXbots")
+            InlineKeyboardButton('• ɢʀᴏᴜᴘ •', url="t.me/ur_movie_group")],[
+            InlineKeyboardButton('•Cᴏᴘʏʀɪɢʜᴛ Mᴏᴠɪᴇs•', url="https://t.me/+yQXmFinDqDhiMTJl"),
+            InlineKeyboardButton('•Cᴏᴍʙɪɴᴇᴅ Sᴇʀɪᴇs•', url="https://t.me/+1MxLxqoanIFlYzM9")
        ],[
-            InlineKeyboardButton('• sᴇʀɪᴇs •', url="https://t.me/+yQXmFinDqDhiMTJl"),
-            InlineKeyboardButton('• ᴍᴏᴠɪᴇ •', url="https://t.me/+1MxLxqoanIFlYzM9")
-       ],[ 
+            InlineKeyboardButton('❗❗ᴅɪsᴄʟᴀɪᴍᴇʀ❗❗', callback_data='source')
+        ],[ 
             InlineKeyboardButton('◁ ʙᴀᴄᴋ', callback_data='start')
         ]]
         await query.edit_message_media(InputMediaPhoto(random.choice(PICS), script.ABOUT_TXT.format(temp.B_NAME), enums.ParseMode.HTML), reply_markup=InlineKeyboardMarkup(buttons))
