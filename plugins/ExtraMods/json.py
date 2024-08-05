@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 import os
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message, CallbackQuery
@@ -46,3 +48,6 @@ async def create_file(c, message):
 
 
 
+        
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
