@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 from PIL import Image, ImageOps, ImageDraw 
 from pyrogram.enums import ChatAction
 import numpy as np
