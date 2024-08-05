@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 import io
 from pyrogram import filters, Client, enums
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
@@ -407,3 +409,6 @@ async def dellacbd(client, message):
 
 
 
+
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
