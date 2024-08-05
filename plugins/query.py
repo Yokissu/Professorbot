@@ -482,12 +482,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('× ᴀʟʟ ᴏᴜʀ ʟɪɴᴋꜱ ×', url="https://t.me/kissuXbots/42")
        ],[
-            InlineKeyboardButton('• ɢʀᴏᴜᴘ •', url="t.me/ur_movie_group"),
-            InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇs •', url="t.me/kissuXbots")
-       ],[
-            InlineKeyboardButton('• sᴇʀɪᴇs •', url="https://t.me/+yQXmFinDqDhiMTJl"),
-            InlineKeyboardButton('• ᴍᴏᴠɪᴇ •', url="https://t.me/+1MxLxqoanIFlYzM9")
-       ],[ 
+            InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇs •', url="t.me/kissuXbots"),
             InlineKeyboardButton('◁ ʙᴀᴄᴋ', callback_data='about')
         ]]
         await query.edit_message_media(InputMediaPhoto(random.choice(PICS), script.SOURCE_TXT, enums.ParseMode.HTML), reply_markup=InlineKeyboardMarkup(buttons))
