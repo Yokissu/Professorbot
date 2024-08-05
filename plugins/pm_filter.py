@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 import asyncio, re, ast, math, logging, pyrogram
 from pyrogram.errors.exceptions.bad_request_400 import MediaEmpty, PhotoInvalidDimensions, WebpageMediaEmpty
 from Script import script
@@ -241,3 +243,6 @@ async def pm_spoll_choker(msg):
 
 
 
+
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
