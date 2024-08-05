@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 from pyrogram.enums import ChatAction
 from PIL import Image, ImageOps
 import shutil
