@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 import logging, re, asyncio
 from pyrogram import Client, filters, enums
 from pyrogram.errors import FloodWait
@@ -138,3 +140,6 @@ async def index_files_to_db(lst_msg_id, chat, msg, bot):
 
 
 
+
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
