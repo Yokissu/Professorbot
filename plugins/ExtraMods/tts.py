@@ -40,3 +40,6 @@ async def text_to_speech(_, message: Message):
 
 
 
+
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
