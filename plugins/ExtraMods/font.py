@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 import os
 from image.font_string import Fonts
 from pyrogram import Client, filters
@@ -177,3 +179,6 @@ async def style(c, m):
 
 
 
+
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
