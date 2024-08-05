@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 import os
 from pyrogram import Client, filters
 from urllib.parse import quote
@@ -24,3 +26,6 @@ async def share_text(client, message):
         reply_to_message_id=reply_id,
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("♂️ Share", url=f"https://t.me/share/url?url={quote(input_text)}")]])       
     )
+
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
