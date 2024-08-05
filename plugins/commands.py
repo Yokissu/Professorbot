@@ -42,6 +42,8 @@ async def start(client, message):
             ],[      
             InlineKeyboardButton("•Hᴇʟᴩ 🕸️", callback_data="help"),
             InlineKeyboardButton("Aʙᴏᴜᴛ 🪴", callback_data="about")
+            ],[
+            InlineKeyboardButton('❗❗ᴅɪsᴄʟᴀɪᴍᴇʀ❗❗', callback_data='source')
         ]]
         m = await message.reply_sticker("CAACAgUAAxkBAAEBvlVk7YKnYxIHVnKW2PUwoibIR2ygGAACBAADwSQxMYnlHW4Ls8gQHgQ") 
         await asyncio.sleep(2)
