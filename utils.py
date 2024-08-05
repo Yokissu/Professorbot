@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 import logging, os, re, asyncio, requests, aiohttp 
 from pyrogram.errors import InputUserDeactivated, UserNotParticipant, FloodWait, UserIsBlocked, PeerIdInvalid                             
 from pyrogram.types import Message, InlineKeyboardButton
@@ -137,8 +139,8 @@ def list_to_str(k):
     else:
         return ' '.join(f'{elem}, ' for elem in k)
 
-__repo__ = "https://github.com/MrMKN/PROFESSOR-BOT"
-__version__ = "PROFESSOR-BOT ᴠ4.5.0"
+__repo__ = "https://github.com/kissuXbots/Devil-Movies"
+__version__ = "Devil-movies ᴠ4.5.0"
 __license__ = "GNU GENERAL PUBLIC LICENSE V2"
 __copyright__ = "Copyright (C) 2023-present MrMKN <https://github.com/MrMKN>"
 
@@ -364,3 +366,6 @@ async def admin_filter(filt, client, message):
 
 
 
+
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
