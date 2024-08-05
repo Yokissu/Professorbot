@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 from pyrogram.types import *
 from pyrogram.errors import FloodWait
 from pyrogram import Client, filters, enums
