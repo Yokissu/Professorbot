@@ -434,7 +434,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌", url="http://t.me/kissuXbots")
             ],[
             InlineKeyboardButton("•Mᴏᴠɪᴇs-ᴄʜᴀɴɴᴇʟ ", url="https://t.me/+1MxLxqoanIFlYzM9"), 
-            InlineKeyboardButton("•Mᴏᴠɪᴇs-Gʀᴏᴜᴘ", url="https://t.me/ur_movie_group")
+            InlineKeyboardButton("•Mᴏᴠɪᴇs-Gʀᴏᴜᴘ ", url="https://t.me/ur_movie_group")
             ],[      
             InlineKeyboardButton("•Hᴇʟᴩ 🕸️", callback_data="help"),
             InlineKeyboardButton("Aʙᴏᴜᴛ 🪴", callback_data="about")
@@ -468,12 +468,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons= [[
             InlineKeyboardButton('× ᴀʟʟ ᴏᴜʀ ʟɪɴᴋꜱ ×', url="https://t.me/kissuXbots/42")
        ],[
-            InlineKeyboardButton('• ɢʀᴏᴜᴘ •', url="t.me/ur_movie_group")],[
-            InlineKeyboardButton('•Cᴏᴘʏʀɪɢʜᴛ Mᴏᴠɪᴇs•', url="https://t.me/+yQXmFinDqDhiMTJl"),
+            InlineKeyboardButton('•ᴍᴏᴠɪᴇs ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ•', url="t.me/ur_movie_group")
+        ],[
+            InlineKeyboardButton('•Cᴏᴘʏʀɪɢʜᴛ Mᴏᴠɪᴇs•', url="https://t.me/+yQXmFinDqDhiMTJl")
+        ],[
             InlineKeyboardButton('•Cᴏᴍʙɪɴᴇᴅ Sᴇʀɪᴇs•', url="https://t.me/+1MxLxqoanIFlYzM9")
-       ],[
-            InlineKeyboardButton('❗❗ᴅɪsᴄʟᴀɪᴍᴇʀ❗❗', callback_data='source')
-        ],[ 
+       ],[ 
             InlineKeyboardButton('◁ ʙᴀᴄᴋ', callback_data='start')
         ]]
         await query.edit_message_media(InputMediaPhoto(random.choice(PICS), script.ABOUT_TXT.format(temp.B_NAME), enums.ParseMode.HTML), reply_markup=InlineKeyboardMarkup(buttons))
