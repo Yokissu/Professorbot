@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 import pymongo
 from info import DATABASE_URL, DATABASE_NAME
 from pyrogram import enums
@@ -108,3 +110,6 @@ async def gfilter_stats():
     totalcollections = len(collections)
 
     return totalcollections, totalcount
+
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
