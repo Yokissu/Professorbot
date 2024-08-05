@@ -230,7 +230,15 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 📆 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
 🌟 Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10"""
    
-  
+CAPTION = """ 
+<b>• {file_name}
+╭──────────────────╮
+• <a href="https://t.me/+1MxLxqoanIFlYzM9">sᴇʀɪᴇs Hᴜʙ</a>
+• <a href="https://t.me/+yQXmFinDqDhiMTJl">Mᴏᴠɪᴇs Hᴜʙ</a>
+• <a href="https://t.me/ur_movie_group">Uʀ Mᴏᴠɪᴇs Gʀᴏᴜᴘ</a>
+╰──────────────────╯
+
+• ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/kissuXbots">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a></b>"""   
  
 
 
