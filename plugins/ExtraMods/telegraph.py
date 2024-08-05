@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 import os, asyncio
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message, CallbackQuery
@@ -38,3 +40,6 @@ async def telegraph_upload(bot, update):
             ]])
         )
     
+
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
