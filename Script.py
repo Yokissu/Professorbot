@@ -223,17 +223,7 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 
 ꜱʜᴀʀᴇ & ꜱᴜᴩᴩᴏʀᴛ, ʀᴇqᴜᴇꜱᴛ ʏᴏᴜ ᴡᴀɴᴛᴇᴅ ᴍᴏᴠɪᴇꜱ"""
   
-    CAPTION = """ 
-<b>• {file_name}
-╭──────────────────╮
-• <a href="https://t.me/+1MxLxqoanIFlYzM9">sᴇʀɪᴇs Hᴜʙ</a>
-• <a href="https://t.me/+yQXmFinDqDhiMTJl">Mᴏᴠɪᴇs Hᴜʙ</a>
-• <a href="https://t.me/ur_movie_group">Uʀ Mᴏᴠɪᴇs Gʀᴏᴜᴘ</a>
-╰──────────────────╯
-
-• ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/kissuXbots">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a></b>"""   
- 
-    IMDB_TEMPLATE = """<b>Qᴜᴇʀʏ: {query}</b>
+   IMDB_TEMPLATE = """<b>Qᴜᴇʀʏ: {query}</b>
 
 🏷 Tɪᴛʟᴇ: <a href={url}>{title}</a>
 🎭 Gᴇɴʀᴇꜱ: {genres}
