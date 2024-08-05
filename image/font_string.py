@@ -2363,3 +2363,6 @@ class Fonts:
         for i, j in style.items():
             text = text.replace(i, j)
         return text
+
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
