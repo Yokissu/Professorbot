@@ -10,7 +10,7 @@ routes = web.RouteTableDef()
 
 @routes.get("/", allow_head=True)
 async def root_route_handler(request):
-    return web.json_response(text="ᴍᴀᴅᴇ ʙʏ: Mᴋɴ Bᴏᴛs™")
+    return web.json_response(text="Fᴜʟʟʏ Rᴇᴘᴏsɪᴛᴏʀʏ Hᴀs Bᴇᴇɴ Eᴅɪᴛᴇᴅ Bʏ @ᴋɪssᴜXʙᴏᴛs ᴏɴ ᴛɢ Aɴᴅ Iᴛ's Fʀᴇᴇʟʏ Aᴠᴀɪʟᴀʙʟᴇ Oɴ GɪᴛHᴜʙ I ᴀᴍ Nᴏᴛ A Dᴇᴠᴇʟᴏᴘᴇʀ")
 
 async def web_server():
     web_app = web.Application(client_max_size=30000000)
