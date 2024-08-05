@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 import pymongo
 from pyrogram import enums 
 from info import DATABASE_URL, DATABASE_NAME
