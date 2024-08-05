@@ -1,3 +1,5 @@
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
 import os, re, json, aiohttp, requests
 from pyrogram import Client, filters
 
@@ -60,3 +62,6 @@ async def pasty(client, message):
 
     pasted = f"**Sᴜᴄᴄᴇssғᴜʟʟʏ Pᴀsᴛᴇ Tᴏ Pᴀsᴛʏ**\n\n**Lɪɴᴋ:** • [CʟɪᴄᴋHᴇʀᴇ]({p_link})\n\n**Rᴀᴡ Lɪɴᴋ:** • [CʟɪᴄᴋHᴇʀᴇ]({p_raw})"
     await pablo.edit(pasted, disable_web_page_preview=True)
+
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
