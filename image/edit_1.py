@@ -244,3 +244,5 @@ async def box_blur(client, message):
                 )
             except Exception:
                 return
+##join us on Tg- @kissuXbots
+##movies bot - @kissu_movies_bot
