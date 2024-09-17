@@ -40,12 +40,6 @@ FILE_DB_URL = environ.get("FILE_DB_URL", DATABASE_URL)
 FILE_DB_NAME = environ.get("FILE_DB_NAME", DATABASE_NAME)
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
-#Openai
-AI = is_enabled((environ.get("AI","True")), True)
-OPENAI_API = environ.get("OPENAI_API", " ")
-DEEP_API = environ.get("DEEP_API", "3ac9b077-654f-45c6-a1f0-a04a5ef6b69e")
-GOOGLE_API_KEY = environ.get("GOOGLE_API_KEY", "AIzaSyD214hhYJ-xf8rfaWX044_g1VEBQ0ua55Q")
-AI_LOGS = int(environ.get("AI_LOGS", "-1002241656661")) #GIVE YOUR NEW LOG CHANNEL ID TO STORE MESSAGES THAT THEY SEARCH IN BOT PM.... [ i have added this to keep an eye on the users message, to avoid misuse of Bot ]
 
 # Filters Configuration 
 MAX_RIST_BTNS = int(environ.get('MAX_RIST_BTNS', "10"))
@@ -60,10 +54,7 @@ G_FILTER = is_enabled(environ.get("G_FILTER", "True"), True)
 BUTTON_LOCK = is_enabled(environ.get("BUTTON_LOCK", "True"), True)
 RemoveBG_API = environ.get("RemoveBG_API", "BBfqJQTBznNFqg4R7VESNW46")
 
-#Auto approve 
-CHAT_ID = [int(app_chat_id) if id_pattern.search(app_chat_id) else app_chat_id for app_chat_id in environ.get('CHAT_ID', '').split()]
-TEXT = environ.get("APPROVED_WELCOME_TEXT", "<b>{mention},\n\nʏᴏᴜʀ ʀᴇǫᴜᴇsᴛ ᴛᴏ ᴊᴏɪɴ {title} ɪs ᴀᴘᴘʀᴏᴠᴇᴅ.\n\‣ ᴘᴏᴡᴇʀᴇᴅ ʙʏ @kissuxbots</b>")
-APPROVED = environ.get("APPROVED_WELCOME", "on").lower()
+
 
 # url shortner
 SHORT_URL = environ.get("SHORT_URL")
