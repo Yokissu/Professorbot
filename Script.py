@@ -198,7 +198,15 @@ Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs
       
     START_KICK = "Rᴇᴍᴏᴠɪɴɢ Iɴᴀᴄᴛɪᴠᴇ Mᴇᴍʙᴇʀs Tʜɪs Mᴀʏ Tᴀᴋᴇ A Wʜɪʟᴇ"
     
-    CAPTION = """<a href='https://t.me/kissuxbots'><b>ɴᴀᴍᴇ : {file_name}</b></a>"""
+    CAPTION = """<b>• {file_name}
+╭──────────────────╮
+• <a href="https://t.me/+o51Dq3czHvxkYTU1">Cᴏᴘʏʀɪɢʜᴛ Mᴏᴠɪᴇs</a>
+• <a href="https://t.me/kissuxbots/5">Eᴀʀɴɪɴɢ Pʀᴏᴊᴇᴄᴛs</a>
+• <a href="https://t.me/ur_movie_group">Uʀ Mᴏᴠɪᴇs Gʀᴏᴜᴘ</a>
+╰──────────────────╯
+
+• ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/xaekks">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a></b>"""
+
       
     ADMIN_REQUIRED = "❗<b>Iᴀᴍ Nᴏᴛ Aᴅᴍɪɴ Iɴ Tʜɪꜱ Cʜᴀᴛ Sᴏ Pʟᴇᴀꜱᴇ Aᴅᴅ Mᴇ Aɢᴀɪɴ Wɪᴛʜ Aʟʟ Pᴅᴍɪɴ Pᴇʀᴍɪꜱꜱɪᴏɴ</b>"
       
