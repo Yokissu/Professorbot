@@ -37,7 +37,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton("📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌", url="http://t.me/kissuXbots")
             ],[
-            InlineKeyboardButton("•Mᴏᴠɪᴇs-ᴄʜᴀɴɴᴇʟ ", url="https://t.me/+1MxLxqoanIFlYzM9"), 
+            InlineKeyboardButton("•Mᴏᴠɪᴇs-ᴄʜᴀɴɴᴇʟ ", url="https://t.me/+o51Dq3czHvxkYTU1"), 
             InlineKeyboardButton("•Mᴏᴠɪᴇs-Gʀᴏᴜᴘ", url="https://t.me/ur_movie_group")
             ],[      
             InlineKeyboardButton("•Hᴇʟᴩ 🕸️", callback_data="help"),
@@ -77,7 +77,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton("📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌", url="http://t.me/kissuXbots")
             ],[
-            InlineKeyboardButton("•Mᴏᴠɪᴇs-ᴄʜᴀɴɴᴇʟ ", url="https://t.me/+1MxLxqoanIFlYzM9"), 
+            InlineKeyboardButton("•Mᴏᴠɪᴇs-ᴄʜᴀɴɴᴇʟ ", url="https://t.me/+o51Dq3czHvxkYTU1"), 
             InlineKeyboardButton("•Mᴏᴠɪᴇs-Gʀᴏᴜᴘ", url="https://t.me/ur_movie_group")
             ],[      
             InlineKeyboardButton("•Hᴇʟᴩ 🕸️", callback_data="help"),
