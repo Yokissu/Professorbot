@@ -18,9 +18,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴏɪɴ Oᴜʀ Gʀᴏᴜ
    
     SOURCE_TXT = """Tʜɪs Rᴇᴘᴏ Hᴀs Bᴇᴇɴ Eᴅɪᴛᴇᴅ Bʏ - <a herf=https://github.com/xaekks>𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a>
 
-Hᴇʀᴇ ɪs ᴏʀɪɢɪɴᴀʟ Cʀᴇᴀᴛᴏʀ ᴏғ Rᴇᴘᴏ - <a herf=https://t.me/mrmkn>MrMkn</a>
-
-Hᴇʀᴇ Is Tʜᴇ Eᴅɪᴛᴇᴅ Vᴇʀsɪᴏɴ Oғ Rᴇᴘᴏsɪᴛᴏʀɪᴇs - <a herf=https://github.com/kissuxbots>Link</a>"""
+</a>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -200,8 +198,7 @@ Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs
     
     CAPTION = """<b>• {file_name}
 ╭──────────────────╮
-• <a href="https://t.me/+o51Dq3czHvxkYTU1">Cᴏᴘʏʀɪɢʜᴛ Mᴏᴠɪᴇs</a>
-• <a href="https://t.me/kissuxbots/5">Eᴀʀɴɪɴɢ Pʀᴏᴊᴇᴄᴛs</a>
+• <a href="https://t.me/+JsbZsEJK2WE2MzY9">Cᴏᴘʏʀɪɢʜᴛ Mᴏᴠɪᴇs</a>
 • <a href="https://t.me/ur_movie_group">Uʀ Mᴏᴠɪᴇs Gʀᴏᴜᴘ</a>
 ╰──────────────────╯
 
