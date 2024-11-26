@@ -433,7 +433,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton("📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌", url="http://t.me/kissuXbots")
             ],[
-            InlineKeyboardButton("•Mᴏᴠɪᴇs-ᴄʜᴀɴɴᴇʟ ", url="https://t.me/+1MxLxqoanIFlYzM9"), 
+            InlineKeyboardButton("•Mᴏᴠɪᴇs-ᴄʜᴀɴɴᴇʟ ", url="https://t.me/+JsbZsEJK2WE2MzY9"), 
             InlineKeyboardButton("•Mᴏᴠɪᴇs-Gʀᴏᴜᴘ ", url="https://t.me/ur_movie_group")
             ],[      
             InlineKeyboardButton("•Hᴇʟᴩ 🕸️", callback_data="help"),
@@ -470,9 +470,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
        ],[
             InlineKeyboardButton('•ᴍᴏᴠɪᴇs ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ•', url="t.me/ur_movie_group")
         ],[
-            InlineKeyboardButton('•Cᴏᴘʏʀɪɢʜᴛ Mᴏᴠɪᴇs•', url="https://t.me/+yQXmFinDqDhiMTJl")
+            InlineKeyboardButton('•Cᴏᴘʏʀɪɢʜᴛ Mᴏᴠɪᴇs•', url="https://t.me/+JsbZsEJK2WE2MzY9")
         ],[
-            InlineKeyboardButton('•Cᴏᴍʙɪɴᴇᴅ Sᴇʀɪᴇs•', url="https://t.me/+1MxLxqoanIFlYzM9")
+            InlineKeyboardButton('•Cᴏᴍʙɪɴᴇᴅ Sᴇʀɪᴇs•', url="https://t.me/+JsbZsEJK2WE2MzY9")
        ],[ 
             InlineKeyboardButton('◁ ʙᴀᴄᴋ', callback_data='start')
         ]]
